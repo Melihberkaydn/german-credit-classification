@@ -1,1 +1,6 @@
-/credit-classification/
+
+/venv-class/*
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
